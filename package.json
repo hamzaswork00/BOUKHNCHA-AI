@@ -1,0 +1,12 @@
+{
+  "name": "boukhncha-ai",
+  "version": "1.0.0",
+  "description": "Interface AI personnalisée avec DeepSeek API",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["ai", "deepseek", "vercel"],
+  "author": "Votre nom",
+  "license": "MIT"
+}
